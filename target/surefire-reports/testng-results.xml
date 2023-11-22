@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-22T20:24:44 ART" name="Surefire suite" finished-at="2023-11-22T20:25:23 ART" duration-ms="39032">
+    <groups>
+    </groups>
+    <test started-at="2023-11-22T20:24:44 ART" name="Surefire test" finished-at="2023-11-22T20:25:23 ART" duration-ms="39032">
+      <class name="tests.ServicesTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.ServicesTest@ec756bd]" started-at="2023-11-22T20:24:44 ART" name="setup" finished-at="2023-11-22T20:24:47 ART" duration-ms="2724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testFilm2ForPeople2()[pri:0, instance:tests.ServicesTest@ec756bd]" started-at="2023-11-22T20:24:47 ART" name="testFilm2ForPeople2" finished-at="2023-11-22T20:25:00 ART" duration-ms="12983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilm2ForPeople2 -->
+        <test-method signature="testGetFilms7()[pri:0, instance:tests.ServicesTest@ec756bd]" started-at="2023-11-22T20:25:00 ART" name="testGetFilms7" finished-at="2023-11-22T20:25:02 ART" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetFilms7 -->
+        <test-method signature="testGetPeople2()[pri:0, instance:tests.ServicesTest@ec756bd]" started-at="2023-11-22T20:25:02 ART" name="testGetPeople2" finished-at="2023-11-22T20:25:05 ART" duration-ms="2904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPeople2 -->
+        <test-method signature="testPlanetFromFilm2()[pri:0, instance:tests.ServicesTest@ec756bd]" started-at="2023-11-22T20:25:05 ART" name="testPlanetFromFilm2" finished-at="2023-11-22T20:25:13 ART" duration-ms="8123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlanetFromFilm2 -->
+        <test-method signature="testPlanetFromFilm2Bis()[pri:0, instance:tests.ServicesTest@ec756bd]" started-at="2023-11-22T20:25:13 ART" name="testPlanetFromFilm2Bis" finished-at="2023-11-22T20:25:23 ART" duration-ms="10147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlanetFromFilm2Bis -->
+      </class> <!-- tests.ServicesTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
